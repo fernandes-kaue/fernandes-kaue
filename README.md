@@ -1,7 +1,19 @@
-### Hi there 👋
+```
 
-- 🌱 I’m currently learning Java, and looking into learning C/C++ after :)
-- 👯 I’m looking to collaborate on *everything* 
-- 🤔 I’m looking for help with Java try/catch
-- ⚡ Fun fact: big fan of kanye 
+import Desenvolvedor from "fernandes-kaue";
 
+
+class SobreMim extends Desenvolvedor {
+  nome = "Kauê Fernandes";
+  area = "Back-end";
+  trabalho = "ATS Informática";
+  local = "Vitória da Conquista";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = [Java, Python, C ];
+  bibliotecas = [];
+  frameworks = [Spring];
+}
+
+```
