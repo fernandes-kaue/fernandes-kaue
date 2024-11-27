@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = [Java, Python, C ];
+  linguagens = [Java, Python];
   bibliotecas = [];
   frameworks = [Spring];
 }
