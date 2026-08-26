@@ -1,36 +1,33 @@
-<h1 align="center">Olá👋Como vai?</h1>
+# Kauê Fernandes
 
-###
+**Desenvolvimento Backend e Web | Sistemas de Informação**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-</div>
+Estudante de Sistemas de Informação no IFBA e profissional de implantação de sistemas, direcionando minha carreira para desenvolvimento de software. Desenvolvo aplicações web e APIs com foco em JavaScript/TypeScript, Node.js, PHP, Java e bancos de dados SQL.
 
-###
+## Tecnologias
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kau%C3%AA-santos-fernandes-5a7b791a4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/fernandeskaue" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
-</div>
+| Área | Tecnologias |
+|---|---|
+| Backend | TypeScript, JavaScript, Node.js, Express, PHP, Java |
+| Bancos de dados | PostgreSQL, MySQL, MongoDB |
+| Ferramentas | Git, Linux, Docker, Vite |
 
-###
+## Projeto em destaque
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fernandes-kaue&theme=dracula&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
-</div>
+### [TecFix Assistência](https://github.com/fernandes-kaue/TecfixAssistencia)
 
-###
+Landing page responsiva para uma assistência técnica, com formulário de orçamento, validação em JavaScript e geração automática de mensagem para atendimento via WhatsApp.
 
-<img src="https://raw.githubusercontent.com/fernandes-kaue/fernandes-kaue/output/snake.svg" alt="Snake animation" />
+`JavaScript` · `HTML` · `CSS` · `Vite`
 
-###
+## Foco atual
+
+- Desenvolvimento de APIs REST com Node.js, Express e TypeScript
+- Modelagem e consultas em bancos de dados SQL
+- Validação, tratamento de erros, testes e organização de aplicações backend
+- Desenvolvimento web com PHP e JavaScript
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-santos-fernandes-5a7b791a4/)
+- [dev.to](https://dev.to/fernandeskaue)
