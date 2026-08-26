@@ -31,3 +31,4 @@ Landing page responsiva para uma assistência técnica, com formulário de orça
 
 - [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-santos-fernandes-5a7b791a4/)
 - [dev.to](https://dev.to/fernandeskaue)
+- [Portfólio](https://kaue.space)
