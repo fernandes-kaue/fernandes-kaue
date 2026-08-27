@@ -1,18 +1,21 @@
 # Kauê Fernandes
 
-**Desenvolvimento Backend e Web | Sistemas de Informação**
+**Desenvolvedor Backend | TypeScript, Node.js e PostgreSQL**
 
 Estudante de Sistemas de Informação no IFBA e analista de implantação, em transição para desenvolvimento backend. Desenvolvo APIs e produtos web com TypeScript, Node.js, Express, PostgreSQL, Docker e Linux.
+
+Busco oportunidades de estágio ou júnior em desenvolvimento backend/full stack, presenciais em Vitória da Conquista ou remotas no Brasil.
 
 ## Tecnologias
 
 | Área | Tecnologias |
 |---|---|
-| Backend | TypeScript, Node.js, Express, Java, PHP |
+| Backend | TypeScript, Node.js, Express |
 | Dados | PostgreSQL, Prisma, MySQL, SQL |
 | Infraestrutura | Docker, Linux, Caddy, AWS Lightsail |
-| Frontend | React, Next.js, HTML, CSS |
-| Qualidade | Git, testes, validação, migrations |
+| Frontend | React, Next.js, JavaScript, HTML, CSS |
+| Complementar | Java, PHP |
+| Qualidade | Git, testes, validação e migrations |
 
 ## Projetos em destaque
 
@@ -28,28 +31,27 @@ Sistema full stack desenvolvido em equipe para clientes, estoque, serviços e pa
 
 `React` · `Express` · `PostgreSQL` · `Prisma`
 
-### [TecFix Assistência](https://github.com/fernandes-kaue/TecfixAssistencia)
-
-Landing page responsiva com formulário guiado, validação no navegador e geração automática de orçamento para envio via WhatsApp.
-
-`JavaScript` · `HTML` · `CSS` · `Vite`
-
 ### [Destino Del Rey](https://destinodelrey.com.br/)
 
 Landing page responsiva publicada em domínio próprio, com fluxo de agendamento, prova social, assets otimizados e SEO técnico.
 
 `JavaScript` · `HTML` · `CSS` · `Vite`
 
+### [TecFix Assistência](https://github.com/fernandes-kaue/TecfixAssistencia)
+
+Landing page responsiva com formulário guiado, validação no navegador e geração automática de orçamento para envio via WhatsApp.
+
+`JavaScript` · `HTML` · `CSS` · `Vite`
+
 ## Foco atual
 
-- Desenvolvimento de APIs REST com Node.js, Express e TypeScript
+- APIs REST com Node.js, Express e TypeScript
 - Modelagem relacional, migrations e consultas com PostgreSQL e Prisma
-- Autenticação, autorização, validação e testes de aplicações backend
-- Containers, observabilidade básica e rotinas seguras de deploy
+- Autenticação, autorização, validação, testes e deploy com containers
 
 ## Contato
 
-- [E-mail](mailto:fernandes.kaue.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/kaue-santos-fernandes-5a7b791a4/)
-- [dev.to](https://dev.to/fernandeskaue)
 - [Portfólio](https://kaue.space)
+- [LinkedIn](https://www.linkedin.com/in/kaue-santos-fernandes-5a7b791a4/)
+- [E-mail](mailto:fernandes.kaue.dev@gmail.com)
+- [dev.to](https://dev.to/fernandeskaue)
