@@ -19,9 +19,11 @@ Busco oportunidades de estágio ou júnior em desenvolvimento backend/full stack
 
 ## Projetos em destaque
 
-### [Running Analytics](https://running.kaue.space/)
+### Running Analytics
 
 Produto full stack multiusuário para registrar corridas, acompanhar tênis, planejar provas e visualizar indicadores semanais. Publicado na AWS Lightsail com containers endurecidos e TLS pelo Caddy.
+
+[Aplicação](https://running.kaue.space/) · [Código público](https://github.com/fernandes-kaue/running-analytics-showcase)
 
 `Next.js` · `Express` · `PostgreSQL` · `Prisma` · `Docker`
 
@@ -37,7 +39,7 @@ Landing page responsiva publicada em domínio próprio, com fluxo de agendamento
 
 `JavaScript` · `HTML` · `CSS` · `Vite`
 
-### [TecFix Assistência](https://github.com/fernandes-kaue/TecfixAssistencia)
+### [TecFix Assistência](https://github.com/fernandes-kaue/tecfix-assistencia)
 
 Landing page responsiva com formulário guiado, validação no navegador e geração automática de orçamento para envio via WhatsApp.
 
