@@ -56,4 +56,3 @@ Landing page responsiva com formulário guiado, validação no navegador e gera�
 - [Portfólio](https://kaue.space)
 - [LinkedIn](https://www.linkedin.com/in/kaue-santos-fernandes-5a7b791a4/)
 - [E-mail](mailto:fernandes.kaue.dev@gmail.com)
-- [dev.to](https://dev.to/fernandeskaue)
