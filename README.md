@@ -11,7 +11,7 @@ Busco oportunidades de estágio ou júnior em desenvolvimento backend/full stack
 | Área | Tecnologias |
 |---|---|
 | Backend | TypeScript, Node.js, Express |
-| Dados | PostgreSQL, Prisma, MySQL, SQL |
+| Dados | PostgreSQL, Prisma, MongoDB, Mongoose, MySQL, SQL |
 | Infraestrutura | Docker, Linux, Caddy, AWS Lightsail |
 | Frontend | React, Next.js, JavaScript, HTML, CSS |
 | Complementar | Java, PHP |
@@ -27,11 +27,11 @@ Produto full stack multiusuário para registrar corridas, acompanhar tênis, pla
 
 `Next.js` · `Express` · `PostgreSQL` · `Prisma` · `Docker`
 
-### [Sistema de Gerenciamento de Serviços](https://github.com/DimitriFreitas/Sistema-de-Gerenciamento-de-Servicos/tree/backend-novos-modulos)
+### [Sistema de Gerenciamento de Serviços (Showcase)](https://github.com/fernandes-kaue/sistema-gerenciamento-servicos-showcase)
 
-Sistema full stack desenvolvido em equipe para clientes, estoque, serviços e pagamentos. Minha contribuição concentrou-se na integração dos módulos CRUD, validações de estoque e refinamentos de interface.
+Showcase full stack desenvolvido em equipe para gestão de serviços em motores elétricos, estoque e clientes. Minha contribuição concentrou-se na arquitetura e expansão das rotas da API no backend, regras de negócio para serviços e validações de movimentações de estoque, além da integração com a interface.
 
-`React` · `Express` · `PostgreSQL` · `Prisma`
+`React` · `Express` · `MongoDB` · `Mongoose` · `Docker`
 
 ### [Destino Del Rey](https://destinodelrey.com.br/)
 
